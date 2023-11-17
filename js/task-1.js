@@ -2,6 +2,9 @@ const getUserNames = (users) => {
     return users.map(user => user.name);
 };
 
+
+//-------testing--------- //
+
 console.log(getUserNames([
     {name: "Moore Hensley",
     email: "moorehensley@indexia.com",

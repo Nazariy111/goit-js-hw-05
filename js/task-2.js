@@ -3,6 +3,8 @@ const getUsersWithFriend = (users, friendName) => {
 };
 
 
+//-------testing---------// 
+
 const allUsers = [
     {
     name: "Moore Hensley",

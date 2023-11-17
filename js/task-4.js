@@ -6,6 +6,9 @@ const getTotalBalanceByGender = (users, gender) => {
         }, 0);
 }
 
+
+//-------testing---------// 
+
 const allUsersJS = [
     {
     name: "Moore Hensley",
